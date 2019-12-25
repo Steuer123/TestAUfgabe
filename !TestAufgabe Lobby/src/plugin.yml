@@ -1,0 +1,6 @@
+name: TestLobby
+version: 1.0
+author: Steuer
+main: de.steuer.lobby.Lobby
+commands:
+   set:
